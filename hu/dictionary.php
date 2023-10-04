@@ -4,7 +4,7 @@ return [
     'system.poweredby' => 'Rendszer működtetve',
     'global.nokit' => 'Nem találtunk semmit',
     'global.error' => 'Hiba',
-    'global.error404' => 'The requested page was not found.',
+    'global.error404' => 'Az Ön által kereset oldalt nem sikerült megtalálni.',
     'global.error404.title' => 'Az oldalt nem sikerült megtalálni',
     'global.emailerror' => 'Az e-mail-t nem sikerült elküldeni',
     'global.accessdenied' => 'Hozzáférés megtagadva',
