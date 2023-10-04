@@ -1,14 +1,14 @@
 <?php
 
 return [
-    'system.poweredby' => 'Powered by',
-    'global.nokit' => 'No items found',
-    'global.error' => 'Error',
+    'system.poweredby' => 'Rendszer működtetve',
+    'global.nokit' => 'Nem találtunk semmit',
+    'global.error' => 'Hiba',
     'global.error404' => 'The requested page was not found.',
-    'global.error404.title' => 'Page not found',
-    'global.emailerror' => 'The e-mail could not be sent',
-    'global.accessdenied' => 'Access denied',
-    'global.undefined' => 'undefined',
+    'global.error404.title' => 'Az oldalt nem sikerült megtalálni',
+    'global.emailerror' => 'Az e-mail-t nem sikerült elküldeni',
+    'global.accessdenied' => 'Hozzáférés megtagadva',
+    'global.undefined' => 'határozatlan',
     'global.or' => 'or',
     'global.root' => 'Root',
     'global.file' => 'File',
